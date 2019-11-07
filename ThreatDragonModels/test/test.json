@@ -5,7 +5,11 @@
     "description": "sssssss"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "sss"
+      }
+    ],
     "diagrams": [
       {
         "title": "sss",
